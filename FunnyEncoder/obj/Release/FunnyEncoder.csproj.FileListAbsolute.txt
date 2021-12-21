@@ -1,0 +1,23 @@
+E:\User Data\repos\FunnyEncoder\FunnyEncoder\bin\Release\FunnyEncoder.exe.config
+E:\User Data\repos\FunnyEncoder\FunnyEncoder\bin\Release\FunnyEncoder.exe
+E:\User Data\repos\FunnyEncoder\FunnyEncoder\bin\Release\FunnyEncoder.pdb
+E:\User Data\repos\FunnyEncoder\FunnyEncoder\bin\Release\Ude.NetStandard.dll
+E:\User Data\repos\FunnyEncoder\FunnyEncoder\obj\Release\FunnyEncoder.csprojAssemblyReference.cache
+E:\User Data\repos\FunnyEncoder\FunnyEncoder\obj\Release\FunnyEncoder.MainForm.resources
+E:\User Data\repos\FunnyEncoder\FunnyEncoder\obj\Release\FunnyEncoder.Properties.Resources.resources
+E:\User Data\repos\FunnyEncoder\FunnyEncoder\obj\Release\FunnyEncoder.csproj.GenerateResource.cache
+E:\User Data\repos\FunnyEncoder\FunnyEncoder\obj\Release\FunnyEncoder.csproj.CopyComplete
+E:\User Data\repos\FunnyEncoder\FunnyEncoder\obj\Release\FunnyEncoder.exe
+E:\User Data\repos\FunnyEncoder\FunnyEncoder\obj\Release\FunnyEncoder.pdb
+G:\VSProject\FunnyEncoder\FunnyEncoder\bin\Release\FunnyEncoder.exe.config
+G:\VSProject\FunnyEncoder\FunnyEncoder\bin\Release\FunnyEncoder.exe
+G:\VSProject\FunnyEncoder\FunnyEncoder\bin\Release\FunnyEncoder.pdb
+G:\VSProject\FunnyEncoder\FunnyEncoder\bin\Release\Ude.NetStandard.dll
+G:\VSProject\FunnyEncoder\FunnyEncoder\obj\Release\FunnyEncoder.csprojAssemblyReference.cache
+G:\VSProject\FunnyEncoder\FunnyEncoder\obj\Release\FunnyEncoder.MainForm.resources
+G:\VSProject\FunnyEncoder\FunnyEncoder\obj\Release\FunnyEncoder.Properties.Resources.resources
+G:\VSProject\FunnyEncoder\FunnyEncoder\obj\Release\FunnyEncoder.csproj.GenerateResource.cache
+G:\VSProject\FunnyEncoder\FunnyEncoder\obj\Release\FunnyEncoder.csproj.CoreCompileInputs.cache
+G:\VSProject\FunnyEncoder\FunnyEncoder\obj\Release\FunnyEncoder.csproj.CopyComplete
+G:\VSProject\FunnyEncoder\FunnyEncoder\obj\Release\FunnyEncoder.exe
+G:\VSProject\FunnyEncoder\FunnyEncoder\obj\Release\FunnyEncoder.pdb
